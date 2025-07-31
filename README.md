@@ -1,3 +1,5 @@
+
+<img width="1436" height="813" alt="Screenshot 2025-07-31 004815" src="https://github.com/user-attachments/assets/851e2466-34ea-433d-aecc-d6ebc3bc6126" />
 # frontend
 
 This template should help get you started developing with Vue 3 in Vite.
